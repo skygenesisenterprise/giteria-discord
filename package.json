@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/skygenesisenterprise/giteria-discord/issues"
   },
-  "homepage": "https://github.com/skygenesisenterprise/giteria-discord#readme"
+  "homepage": "https://github.com/skygenesisenterprise/giteria-discord#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  }
 }
