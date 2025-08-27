@@ -137,3 +137,12 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Nodejs pacakge lock files
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+pnpm-lock.yaml
+yarn.lock
+.pnpmfile.cjs
+.pnpm-debug.log*

@@ -1,0 +1,24 @@
+{
+  "name": "giteria-discord",
+  "version": "1.0.0",
+  "description": "The Official Giteria Discord Bot",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygenesisenterprise/giteria-discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/skygenesisenterprise/giteria-discord/issues"
+  },
+  "homepage": "https://github.com/skygenesisenterprise/giteria-discord#readme"
+}
